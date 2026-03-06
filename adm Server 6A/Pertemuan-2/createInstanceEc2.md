@@ -17,4 +17,4 @@
 12. Pastikan nama sesuai -> klik Instance
 
 ![alt text](image-5.png)
-![alt text](image-6.png)
+![alt text](image-6.png) 
